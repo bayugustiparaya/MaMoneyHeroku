@@ -1,0 +1,41 @@
+nav {
+  font-family: 'Kanit';
+  position: inherit;
+  z-index: 1;
+}
+
+.nav-link {
+  font-weight: 200;
+}
+
+.login, .register {
+  font-family: 'Kanit';
+}
+
+.main-text {
+  font-family: 'Playfair Display', serif;
+  font-size: 46px;
+  color: #143128;
+  position: absolute;
+}
+
+.main-text h1 {
+  width: 400px;
+  position: relative;
+  z-index: 1;
+}
+
+.main-text p {
+  font-size: 19px;
+  font-family: 'Kanit';
+  font-weight: 200;
+}
+
+.box {
+  position: absolute;
+  z-index: 0;
+  width: 150px;
+  height: 30px;
+  background-color: antiquewhite;
+}
+/*# sourceMappingURL=style.css.map */
